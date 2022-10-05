@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T23:11:11 EDT" name="Default suite" finished-at="2022-10-03T23:11:34 EDT" duration-ms="22931">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T23:11:11 EDT" name="Default test" finished-at="2022-10-03T23:11:34 EDT" duration-ms="22931">
+      <class name="com.firebase.test.tests.UserMenuDropDown">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.firebase.test.tests.UserMenuDropDown@229f66ed]" started-at="2022-10-03T23:11:11 EDT" name="beforeClass" finished-at="2022-10-03T23:11:19 EDT" duration-ms="8127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="LoginTC10()[pri:0, instance:com.firebase.test.tests.UserMenuDropDown@229f66ed]" started-at="2022-10-03T23:11:19 EDT" name="LoginTC10" finished-at="2022-10-03T23:11:34 EDT" duration-ms="14601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTC10 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.firebase.test.tests.UserMenuDropDown@229f66ed]" started-at="2022-10-03T23:11:34 EDT" name="afterClass" finished-at="2022-10-03T23:11:34 EDT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.firebase.test.tests.UserMenuDropDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
